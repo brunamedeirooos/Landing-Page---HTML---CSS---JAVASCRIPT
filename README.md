@@ -1,2 +1,5 @@
-# Landing-Page---HTML---CSS---JAVASCRIPT
-Estudo realizado para treinar  tags e estilos
+landingpagebruna.netlify.app 
+<br>
+Acesse a págona.
+<br>
+Estudo realizado para praticar html e css
